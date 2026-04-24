@@ -833,6 +833,11 @@ a {
   flex-wrap: wrap;
 }
 
+.contact-actions .button.primary {
+  min-width: 280px;
+  justify-content: center;
+}
+
 .testimonials {
   display: none;
 }
